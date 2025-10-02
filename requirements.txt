@@ -1,0 +1,5 @@
+beautifulsoup4
+dotenv
+pandas
+pyodbc
+scikit-learn

@@ -1,0 +1,5 @@
+- [National Average CPI Data](https://data.bls.gov/timeseries/CUSR0000SA0)
+- [New York State CPI Data]()
+- [Occupational Data with Wages](https://www.bls.gov/oes/tables.htm)
+- [2025 Family budget calculator](fbc_data_2025.xlsx)
+  - [Source](https://www.epi.org/resources/budget/?utm_source=chatgpt.com)
