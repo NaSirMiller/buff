@@ -1,5 +1,9 @@
 beautifulsoup4
-dotenv
+python-dotenv
+fastapi
 pandas
+pydantic
 pyodbc
+requests
 scikit-learn
+uvicorn
